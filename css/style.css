@@ -305,7 +305,7 @@ footer {
 	  float: left;
 	  
 	}
-	.col-4,shadow{
+	.col-4.shadow{
 	  
 	  display: inline-block;
 	  width:33%;
