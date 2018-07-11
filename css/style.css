@@ -306,7 +306,7 @@ footer {
 	  
 	}
 	.col-4.shadow{
-	  margin: 0;
+	  margin: 5px;
 	  display: inline-block;
 	  width:33%;
 	}
