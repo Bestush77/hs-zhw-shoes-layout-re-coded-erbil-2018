@@ -307,7 +307,7 @@ footer {
 	}
 	.col-4,shadow{
 	  
-	  display: inline;
+	  display: inline-block;
 	  width:33%;
 	}
 	
