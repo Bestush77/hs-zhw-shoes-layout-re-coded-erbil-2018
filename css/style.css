@@ -312,5 +312,6 @@ footer {
 	}
 	
 .row {
+  margin: 5px;
   clear:both;
 }
