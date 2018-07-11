@@ -302,6 +302,7 @@ footer {
 	}
 	.col-8.shadow {
 	  width: 66%;
+	  float: left;
 	  
 	}
 	.col-4{
